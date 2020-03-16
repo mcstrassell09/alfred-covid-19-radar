@@ -123,7 +123,7 @@
 				<key>queuemode</key>
 				<integer>1</integer>
 				<key>runningsubtext</key>
-				<string>Fetching results...</string>
+				<string>Please wait...</string>
 				<key>script</key>
 				<string>python covid-19-radar.py --lookup</string>
 				<key>scriptargtype</key>
@@ -204,7 +204,7 @@
 				<key>queuemode</key>
 				<integer>1</integer>
 				<key>runningsubtext</key>
-				<string>Fetchins results...</string>
+				<string>Please wait....</string>
 				<key>script</key>
 				<string>python covid-19-radar.py</string>
 				<key>scriptargtype</key>
@@ -350,7 +350,7 @@
 	<key>variablesdontexport</key>
 	<array/>
 	<key>version</key>
-	<string>1.0.0</string>
+	<string>1.0.1</string>
 	<key>webaddress</key>
 	<string>https://github.com/xilopaint/alfred-covid-19-radar</string>
 </dict>
